@@ -1,0 +1,1 @@
+export { LegoProvider } from "./theme";
